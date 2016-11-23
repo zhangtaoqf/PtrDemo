@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_998656438caadbb1cc472a08e5dc622372bf7887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_dbe5912d7b88e15b7d73c33429b9cbb7dc6cf1f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.chanven.lib\cptr\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8647c0362ce323b236f7b7610c489bc69acf99ac">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.chanven.lib-cptr-1.1.0_ef43f15a78130f93551001e1d76d5a2731b894d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3ce88c159595c2c0797aaa6f6d03f7072ca16400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_60c698588f1a8f69591c9fd288ca648d00e84eeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ef51c5c6c911a176f3d91d72e5e345e64b2107d">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\instant-run_0ee19468fbb2359e4dc5d2d54b3b352472e1f524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_329295f4e6963939995d51d14e7a70fc5e01701a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_8b25cd0bc54afd386802c154b4b1ac95f9e7b3b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_7b4eb532f04046a00b05f89343f55c00a1bc613b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_38bf80b699831016022ebf9633042863204f2c3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_a15f02012f6285205b895bfb48b5eb6591bba7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_7e7ef1f8eba0262f7cebbe98734f8965064f91a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_b3db3a886c545e62a5d24ac2b3c859b548e18ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f5a8bbfe9cb8dd8458c91df7da781c3e03f1a414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_a53dd55bd6af60ec3c77765974d933f6752d2472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_68aed2acde2480087c78c099820fbcb4f5b0797d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e91603e1c120da37ce15626fe925829d42ee166">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_039dc21af735157586204aee537bf986771952fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\devtools\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_528b7d6b951b7528ad7d0fba88a0094ec07bbfcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\hz1606\PtrDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\hz1606\PtrDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f819146042a6c85e9209a6a180baaead4c97e041.jar" />
+    </item>
+
+</items>
